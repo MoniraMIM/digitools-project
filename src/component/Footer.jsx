@@ -23,7 +23,7 @@ const Footer = () => {
 
         {/* Product */}
         <div>
-          <h2 className= "font-semibold mb-4">Product</h2>
+          <h2 className= "text-white font-semibold mb-4">Product</h2>
           <ul className="space-y-2 text-sm">
             <li>Features</li>
             <li>Pricing</li>
