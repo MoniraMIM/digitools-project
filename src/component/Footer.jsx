@@ -25,7 +25,7 @@ const Footer = () => {
         <div>
           <h2 className= "text-white font-semibold mb-4">Product</h2>
           <ul className="space-y-2 text-sm">
-            <li></li>
+            <li>Features</li>
             <li>Pricing</li>
             <li>Templates</li>
             <li>Integrations</li>
